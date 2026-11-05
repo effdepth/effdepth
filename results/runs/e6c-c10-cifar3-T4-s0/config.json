@@ -1,0 +1,17 @@
+{
+ "run_dir": "results/runs/e6c-c10-cifar3-T4-s0",
+ "dataset": "cifar10",
+ "arch": "cifar3",
+ "T": 4.0,
+ "alpha": null,
+ "bn": false,
+ "epochs": 200,
+ "lr": 0.0003,
+ "decay": 0.95,
+ "batch": 128,
+ "seed": 0,
+ "experiment": "e6_cifar",
+ "alpha_used": 0.8944271909999159,
+ "T_used": 4.0,
+ "blocks": 9
+}

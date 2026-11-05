@@ -1,0 +1,5 @@
+{
+ "run_dir": "results/runs/e2-large-depth",
+ "max_log10_depth": 7,
+ "experiment": "e2_large_depth"
+}

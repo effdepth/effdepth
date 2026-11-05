@@ -1,0 +1,23 @@
+{
+ "run_dir": "results/runs/e6b-c100-resnet34-step-a0.0625-s0",
+ "dataset": "cifar100",
+ "arch": "resnet34",
+ "T": null,
+ "alpha": 0.0625,
+ "bn": false,
+ "epochs": 200,
+ "lr": 0.0003,
+ "decay": 0.95,
+ "schedule": "step",
+ "milestones": [
+  30,
+  60,
+  90
+ ],
+ "batch": 128,
+ "seed": 0,
+ "experiment": "e6_cifar",
+ "alpha_used": 0.0625,
+ "T_used": 0.0622568093385214,
+ "blocks": 16
+}

@@ -1,0 +1,13 @@
+{
+ "run_dir": "results/runs/e4c-mnist-n20000-K_L50_a0.37606",
+ "dataset": "mnist",
+ "n": 20000,
+ "n_val": 10000,
+ "seed": 0,
+ "kernels": [
+  "K_L50_a0.37606"
+ ],
+ "tables": "out/tables",
+ "block": 2048,
+ "experiment": "e4_real"
+}

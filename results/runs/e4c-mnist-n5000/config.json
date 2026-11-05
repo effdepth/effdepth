@@ -1,0 +1,27 @@
+{
+ "run_dir": "results/runs/e4c-mnist-n5000",
+ "dataset": "mnist",
+ "n": 5000,
+ "n_val": 10000,
+ "seed": 0,
+ "kernels": [
+  "K_T0",
+  "K_T0.0625",
+  "K_T0.25",
+  "K_T1",
+  "K_T2",
+  "K_T4",
+  "K_T8",
+  "K_T16",
+  "K_T32",
+  "K_T64",
+  "K_T128",
+  "K_T256",
+  "K_T1024",
+  "K_T4096",
+  "K_T16384"
+ ],
+ "tables": "out/tables",
+ "block": 2048,
+ "experiment": "e4_real"
+}

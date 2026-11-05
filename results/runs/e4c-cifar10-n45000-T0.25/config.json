@@ -1,0 +1,13 @@
+{
+ "run_dir": "results/runs/e4c-cifar10-n45000-T0.25",
+ "dataset": "cifar10",
+ "n": 45000,
+ "n_val": 5000,
+ "seed": 0,
+ "kernels": [
+  "K_T0.25"
+ ],
+ "tables": "out/tables",
+ "block": 2048,
+ "experiment": "e4_real"
+}

@@ -1,0 +1,15 @@
+{
+ "run_dir": "results/runs/e6a-L32-T2-m2048-s0",
+ "L": 32,
+ "T": 2.0,
+ "width": 2048,
+ "seed": 0,
+ "n": 1000,
+ "n_test": 4000,
+ "d": 3,
+ "target": "harm1",
+ "sigma": 0.5,
+ "step": 1.0,
+ "t_max": 3000.0,
+ "experiment": "e6_fc_resnet"
+}

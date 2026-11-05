@@ -1,0 +1,23 @@
+{
+ "run_dir": "results/runs/e6c-c10-cifar3-step-a1overB-s0",
+ "dataset": "cifar10",
+ "arch": "cifar3",
+ "T": null,
+ "alpha": 0.1111111111111111,
+ "bn": false,
+ "epochs": 200,
+ "lr": 0.0003,
+ "decay": 0.95,
+ "schedule": "step",
+ "milestones": [
+  30,
+  60,
+  90
+ ],
+ "batch": 128,
+ "seed": 0,
+ "experiment": "e6_cifar",
+ "alpha_used": 0.1111111111111111,
+ "T_used": 0.1097560975609756,
+ "blocks": 9
+}

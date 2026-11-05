@@ -1,0 +1,11 @@
+\begin{tabular}{@{}lrrr@{}}
+\toprule
+schedule & runs & largest $\eta_{\max}$ & $\max\,\sup_\vartheta|\bar r-K_T|/\eta_{\max}$ \\
+\midrule
+constant $\alpha\in[2^{-5},2]$, $T\in[0.25,256]$ & 40 & 0.8 & 0.060 \\
+$\alpha=L^{-\gamma}$, $\gamma\in\{\frac14,\frac12,\frac34,1\}$, $L\le4096$ & 20 & 0.2 & 0.061 \\
+$\alpha_\ell=\ell^{-1/2}$, $L\le8192$ & 4 & 0.5 & 0.020 \\
+$\alpha_\ell=(\sqrt\ell\log(\ell+1))^{-1}$, $L\le8192$ & 4 & 0.675 & 0.029 \\
+random $\eta_\ell$, $\eta_{\max}\le0.4$, $T\in\{1,16\}$ & 6 & 0.373 & 0.041 \\
+\bottomrule
+\end{tabular}

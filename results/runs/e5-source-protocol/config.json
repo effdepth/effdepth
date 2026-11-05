@@ -1,0 +1,6 @@
+{
+ "run_dir": "results/runs/e5-source-protocol",
+ "seeds": 20,
+ "lr": 0.0001,
+ "experiment": "e5_source_protocol"
+}

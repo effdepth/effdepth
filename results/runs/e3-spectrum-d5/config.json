@@ -1,0 +1,16 @@
+{
+ "run_dir": "results/runs/e3-spectrum-d5",
+ "d": 5,
+ "kmax": 2000,
+ "Ts": [
+  0,
+  0.25,
+  1,
+  4,
+  16,
+  64,
+  256,
+  1024
+ ],
+ "experiment": "e3_spectrum"
+}

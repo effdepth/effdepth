@@ -1,0 +1,14 @@
+# Values read off the figures of Yu et al. (2026, ICML; arXiv:2403.04545v4), approximate to the plot resolution.
+# figure,setting,value
+# Fig. 4 (CIFAR-100, ResNet-34, 200 epochs): test curves averaged over the last 10 epochs, from the
+# vector figure rendered at 200 dpi (gridlines 20 points apart, 135.5 px)
+fig4,cifar100_resnet34_base_test_acc,62.4
+fig4,cifar100_resnet34_scale_test_acc,68.6
+fig4,cifar100_resnet34_bn_test_acc,73.0
+# Fig. 3 (MNIST, 20000 train / 10000 test, L=50, kernel logistic regression), last epoch (59000),
+# from the curve end points in the vector figure rendered at 200 dpi (gridlines 0.005 apart, 83 px)
+fig3,mnist_L50_gamma0_test_acc,96.62
+fig3,mnist_L50_gamma0.25_test_acc,97.65
+fig3,mnist_L50_gamma0.5_test_acc,97.94
+fig3,mnist_L50_gamma0.75_test_acc,97.98
+fig3,mnist_L50_gamma1_test_acc,97.97

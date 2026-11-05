@@ -1,0 +1,15 @@
+{
+ "run_dir": "results/runs/e6a-L128-T8-m2048-s0",
+ "L": 128,
+ "T": 8.0,
+ "width": 2048,
+ "seed": 0,
+ "n": 1000,
+ "n_test": 4000,
+ "d": 3,
+ "target": "harm1",
+ "sigma": 0.5,
+ "step": 1.0,
+ "t_max": 3000.0,
+ "experiment": "e6_fc_resnet"
+}

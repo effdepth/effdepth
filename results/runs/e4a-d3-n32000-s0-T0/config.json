@@ -1,0 +1,22 @@
+{
+ "run_dir": "results/runs/e4a-d3-n32000-s0-T0",
+ "d": 3,
+ "n": 32000,
+ "seed": 0,
+ "Ts": [
+  0.0
+ ],
+ "tables": "out/tables",
+ "targets": [
+  "linear",
+  "harm1",
+  "harm2"
+ ],
+ "sigmas": [
+  0.1,
+  0.5
+ ],
+ "n_test": 4000,
+ "block": 2048,
+ "experiment": "e4_synthetic"
+}
